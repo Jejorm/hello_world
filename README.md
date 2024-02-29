@@ -1,3 +1,5 @@
-# Aprendiendo Git y GitHub
+# Git y GitHub
 
-Repositorio básico para aprender Git y GitHub y utilizar mis primeros comandos
+![Git & GitHub](./images/git_and_github.png 'Aprendiendo Git y GitHub')
+
+Este es un repositorio de prueba para aprender Git y GitHub
